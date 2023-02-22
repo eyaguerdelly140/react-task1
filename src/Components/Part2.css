@@ -1,0 +1,9 @@
+.part2-container{
+    display: flex;
+}
+.part2-container img{
+    height: 300px;
+    width: 600px;
+    margin: 20px 40px;
+    border-radius: 8px;
+}

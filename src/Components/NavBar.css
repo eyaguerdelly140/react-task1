@@ -1,0 +1,56 @@
+header{
+  
+    display: flex;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 130px;
+}
+.navBar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+.logo{
+    margin-left:80px ;
+}
+
+ul a{
+    color: #000;
+    text-decoration: none;
+} 
+ul a:hover{
+    text-decoration: underline;
+    font-weight: 700;
+
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+li {
+    padding: 5px 10px;
+  }
+ button{
+    margin-top: 10px;
+    background-color: #fb6d5d;
+    height: 35px;
+    width: 120px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+header p{
+    font-weight: 700;
+
+    
+}
